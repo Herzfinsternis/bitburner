@@ -4,7 +4,7 @@
 
 **A journey to make some serious money without having 4S Market Data in Bitburners BitNode 8**
 
-**Update: The jouney continues! Some hints on Reddit and digging into bitburners source are going to improve the script (todo)**
+**Update: The jouney continues! Some [hints on Reddit](https://www.reddit.com/r/Bitburner/comments/vlup0m/bn8_without_4s_market_data/idz4ytg/?context=3) and digging into bitburners source are going to improve the script (todo)**
 
 ### tl/dr
 
