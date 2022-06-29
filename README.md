@@ -60,4 +60,4 @@ export async function main(ns) {
 }
 ```
 
-Last. Do not watch your shares. It will only give you a headache. As a rough estimate I would recommend you calculate 3 hours for the shares value to dubble.
+Last. Do not watch your shares. It will only give you a headache. As a rough estimate I would recommend you calculate 3 hours for the shares value to double.
